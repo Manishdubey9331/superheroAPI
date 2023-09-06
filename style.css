@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:rgba(216, 218, 232, 0.47);
+}
+
+
+
+#main{
+    height: 50rem;
+    width: 40%;
+    margin: auto;
+    background-color:#a23041;
+    border-color: blue;
+  
+}
+.hero
+{
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+
+}
+.para{
+    padding: 5px;
+    text-align:center;
+    margin: 1rem;
+}
+#inputhero ,#randomhero {
+    padding: 8px;
+    margin-top: 5px;
+    position: relative;
+    margin-left: 10rem;
+
+}
+#search{
+    padding: 5px;
+    position: relative;
+    margin-left: 1rem;
+    cursor: pointer;
+
+}
+#heroimage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
